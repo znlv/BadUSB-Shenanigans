@@ -1,6 +1,4 @@
-Here’s a README for both the **Arduino Code** and the **DuckyScript** versions.
 
----
 
 ## **README: Script to Download and Execute a File Using PowerShell**
 
