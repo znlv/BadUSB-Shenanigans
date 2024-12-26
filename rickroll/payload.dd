@@ -1,0 +1,22 @@
+DELAY 2000
+GUI r
+DELAY 500
+STRING powershell
+DELAY 500
+ENTER
+DELAY 1000
+STRING Start-Process "https://youtu.be/dQw4w9WgXcQ" -WindowStyle Minimized
+DELAY 500
+ENTER
+DELAY 2000
+GUI r
+DELAY 500
+STRING notepad
+DELAY 500
+ENTER
+DELAY 1000
+STRING You've been Rickrolled!
+ENTER
+STRING Never gonna give you up...
+ENTER
+STRING This shii is made by valq on github (znlv)
